@@ -1,0 +1,53 @@
+# Python Labs by Kannan Singaravelu
+
+(A) Installation & Settings (Optional)
+---------------------------------------
+1.  Create 'cqf' folder under 'Projects' directory in your home directory 
+        $ ~/Projects/cqf
+2.  Save the requirements.txt in the 'cqf' folder
+3.  Save the helper.py in the 'cqf' folder
+4.  Create a new conda environment by name 'pythonlab'
+        $ conda create --name pythonlab python=3.8
+5.  Activate the newly created conda environment
+        $ conda activate pythonlab
+6.  Install required packages 
+        $ pip install -r requirements.txt
+
+
+(B) Lab Sessions
+-----------------
+Dates	       	   Topic
+12/06/2021	   Introduction to Financial Time Series
+19/06/2021	   Binomial Trees in Option Pricing
+23/06/2021	   Portfolio Optimisation
+30/06/2021	   Value at Risk & GARCH
+27/08/2021	   Implied Volatility
+24/09/2021	   Intro to ML using Scikit-learn
+01/10/2021	   KNN & SVR for Stock Prediction
+08/10/2021	   Gradient Boosting for Price Prediction
+18/10/2021	   K-Means Clustering & Self Organising Maps
+25/10/2021	   Application of Neural Networks using TensorFlow & Keras
+01/11/2021	   Reinforcement Learning
+
+
+(C) How To Get Help?
+--------------------
+1. Questions via chat  (during the session)
+2. Documentation Pages (links as provided in each notebook)
+3. Stack Overflow
+4. Questions via email
+5. 1-on-1 session
+
+
+(D) References & Resources
+--------------------------- 
+1. https://stackoverflow.com
+2. https://github.com/kannansingaravelu/PythonResources
+3. https://docs.python.org/3.8
+
+
+(E) Contact
+------------
+Kannan Singaravelu
+kannan.singaravelu@fitchlearning.com
+Certificate in Quantitative Finance, June 2021
